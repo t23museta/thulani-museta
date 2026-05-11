@@ -1,4 +1,4 @@
-# Thulani Museta 👋
+# Thulani Museta 
 
 **Systems Builder | Co-founder @ LaniTech360 | Automation & Infrastructure**
 
@@ -8,7 +8,7 @@ My background is in IT operations, but my focus has evolved into building **auto
 
 ---
 
-## 🚀 What I’m Building
+##  What I’m Building
 
 At **LaniTech360**, we are building modern business infrastructure for emerging and underserved markets.
 
@@ -22,7 +22,7 @@ I’m particularly interested in how **simple, well-designed systems can unlock 
 
 ---
 
-## 🧠 Core Focus Areas
+##Core Focus Areas
 
 - **System Design & Architecture**
 - **IT Automation (PowerShell, workflows, APIs)**
@@ -44,7 +44,7 @@ Scripts and tools for automating onboarding, offboarding, and system management.
 
 ---
 
-### 📘 M365 Systems Playbook
+###M365 Systems Playbook
 A practical guide to setting up secure, scalable Microsoft 365 environments.
 
 - Security baselines (DKIM, DMARC, MFA)
@@ -53,7 +53,7 @@ A practical guide to setting up secure, scalable Microsoft 365 environments.
 
 ---
 
-### 🧩 CRM System Architecture (LaniTech360)
+### CRM System Architecture (LaniTech360)
 Design and structure of a modern CRM built for operational clarity and scalability.
 
 - Workflow design
@@ -62,7 +62,7 @@ Design and structure of a modern CRM built for operational clarity and scalabili
 
 ---
 
-## 🌍 Vision
+##  Vision
 
 Most businesses don’t fail because of lack of effort — they fail because of **broken systems**.
 
@@ -73,7 +73,7 @@ I’m focused on building tools and infrastructure that:
 
 ---
 
-## 📈 Why This Matters
+## Why This Matters
 
 There are millions of businesses globally operating without proper systems.
 
